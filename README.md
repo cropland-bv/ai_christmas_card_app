@@ -8,7 +8,7 @@ The code to fine-tune the GPT-2 checkpoint can be found as a Jupyter notebook un
 ## ui
 The code to build the user interface in Shiny can be found under **ui**. The code showcases how to use Shiny with a UI that is completely written in HTML and CSS. In addition, it constitutes a good example of how to use the **future** package to build asynchronous applications with Shiny.
 
-# LICENSE
+## LICENSE
 Everything in this repository is released for educative purposes under the terms of the Creative Commons Attribution 4.0 International (CC BY 4.0) license (https://creativecommons.org/licenses/by/4.0/). In general, this means that uou are free to:
  - Share — copy and redistribute the material in any medium or format
  - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
