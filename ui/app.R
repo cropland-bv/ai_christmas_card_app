@@ -14,10 +14,10 @@ library(promises)
 library(glue)
 
 ## Source function to send e-mails via Postmark
-source("send_postmark.R")
+source("send_postmark.R", local = TRUE)
 
 ## Source functions to interact with external model services
-source("services.R")
+source("services.R", local = TRUE)
 
 ## Use the multisession plan for the future package, because
 ## we are running this app asynchronously
